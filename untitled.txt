@@ -1,0 +1,59 @@
+Remuneration in the Armed Forces (C) (v2strenarm)
+Project Manager(s): Jan Teorell, Agnes Cornell
+Additional versions: *_osp, *_ord, *_codelow, *_codehigh, *_sd, *_mean, *_nr Question: To what extent are members of the armed forces salaried employees?
+Clarification: By members of the armed forces, we mean members of all ranks, excluding conscripts. By "salaried employee", we mean someone who is employed on a contract and paid a regular allowance directly out of the state coffers. It does not include unpaid work, work paid for through a private collection of fees, material perquisites or bribes, or private employment by a higher-ranking "patron" within the armed forces.
+Responses:
+0: None or almost none are salaried employees 
+1: A small share is salaried employees
+2: About half are salaried employees
+3: A substantial number are salaried employees 
+4: All or almost all are salaried employees
+
+
+Bureaucratic remuneration (C) (v2strenadm)
+Project Manager(s): Jan Teorell
+Additional versions: *_osp, *_ord, *_codelow, *_codehigh, *_sd, *_mean, *_nr Question: To what extent are state administrators salaried employees?
+Clarification: A state administrator is anyone who works for the state administration. By "salaried employee", we mean someone who is employed on a contract and paid a regular allowance directly out of the state coffers. It does not include unpaid work; work paid for through a private collection of fees, material perquisites or bribes; private employment by a higher- ranking "patron" within the administration; contractors being paid on an irregular basis; or "parastatals" (those working for state-owned companies), since the latter are not paid directly out of the state coffers. Note that the question refers to the practices obtaining in the state administration, excluding the armed forces.
+Responses:
+0: None or almost none are salaried state employees. 1: A small share is salaried state employees.
+2. About half are salaried state employees.
+3: A substantial number are salaried state employees. 4: All or almost all are salaried state employees.
+
+
+
+3.12.0.2 Power distributed by social group (C) (v2pepwrsoc)
+Project Manager(s): John Gerring
+Additional versions: *_osp, *_ord, *_codelow, *_codehigh, *_sd, *_mean, *_nr Question: Is political power distributed according to social groups?
+Clarification: A social group is differentiated within a country by caste, ethnicity, language, race, region, religion, or some combination thereof. (It does not include identities grounded in sexual orientation or socioeconomic status.) Social group identity is contextually defined and is likely to vary across countries and through time. Social group identities are also likely to cross-cut, so that a given person could be defined in multiple ways, i.e., as part of multiple groups. Nonetheless, at any given point in time there are social groups within a society that are understood — by those residing within that society — to be different, in ways that may be politically relevant.
+Responses:
+0: Political power is monopolized by one social group comprising a minority of the population. This monopoly is institutionalized, i.e., not subject to frequent change.
+1: Political power is monopolized by several social groups comprising a minority of the population. This monopoly is institutionalized, i.e., not subject to frequent change.
+2: Political power is monopolized by several social groups comprising a majority of the population. This monopoly is institutionalized, i.e., not subject to frequent change.
+3: Either all social groups possess some political power, with some groups having more power than others; or different social groups alternate in power, with one group controlling much of the political power for a period of time, followed by another — but all significant groups have a turn at the seat of power.
+4: All social groups have roughly equal political power or there are no strong ethnic, caste, linguistic, racial, religious, or regional differences to speak of. Social group characteristics are not relevant to politics.
+
+
+
+3.12.0.1 Power distributed by socioeconomic position (C) (v2pepwrses)
+Project Manager(s): John Gerring
+Additional versions: *_osp, *_ord, *_codelow, *_codehigh, *_sd, *_mean, *_nr Question: Is political power distributed according to socioeconomic position?
+Clarification: All societies are characterized by some degree of economic (wealth and income) inequality. In some societies, income and wealth are distributed in a grossly unequal fashion. In others, the difference between rich and poor is not so great. Here, we are concerned not with the degree of social inequality but rather with the political effects of this inequality. Specifically, we are concerned with the extent to which wealth and income translates into political power.
+Responses:
+0: Wealthy people enjoy a virtual monopoly on political power. Average and poorer people have almost no influence.
+1: Wealthy people enjoy a dominant hold on political power. People of average income have little say. Poorer people have essentially no influence.
+2: Wealthy people have a very strong hold on political power. People of average or poorer income have some degree of influence but only on issues that matter less for wealthy people. 3: Wealthy people have more political power than others. But people of average income have almost as much influence and poor people also have a significant degree of political power.
+4: Wealthy people have no more political power than those whose economic status is average or poor. Political power is more or less equally distributed across economic groups.
+
+3.12.0.3 Power distributed by gender (C) (v2pepwrgen)
+Project Manager(s): John Gerring
+Additional versions: *_osp, *_ord, *_codelow, *_codehigh, *_sd, *_mean, *_nr Question: Is political power distributed according to gender?
+Responses:
+0: Men have a near-monopoly on political power.
+1: Men have a dominant hold on political power. Women have only marginal influence. 2: Men have much more political power but women have some areas of influence.
+3: Men have somewhat more political power than women.
+4: Men and women have roughly equal political power.
+Scale: Ordinal, converted to interval by the measurement model.
+Data release: 1-12.
+Cross-coder aggregation: Bayesian item response theory measurement model (see V-Dem Methodology ).
+Citation: Pemstein et al. (2022, V-Dem Working Paper Series 2022:21); V-Dem Codebook (see suggested citation at the top of this document).
+Years: 1789-2021
